@@ -1,6 +1,5 @@
 # Dataset
-dataset.csv
-final_dataset.csv
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
